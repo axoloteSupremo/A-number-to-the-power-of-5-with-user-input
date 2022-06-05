@@ -1,0 +1,14 @@
+/ Mini-Calculator
+#include <iostream> 
+#include <cmath>
+using namespace std;
+
+int main(){
+    double userInput; 
+    double result;
+    cout << "Enter a number: ";
+    cin >> userInput; 
+    result = pow(userInput, 2);
+    cout << "This is your number to the power of 5: " << result << endl; 
+    return 0;
+}
