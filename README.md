@@ -1,0 +1,1 @@
+# A-number-to-the-power-of-5-with-user-input
